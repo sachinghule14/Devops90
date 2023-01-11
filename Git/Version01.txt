@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 This is first feature of our application
 This is the bug fix in development branch
 This is gadbad code
+This feature will gadbad everything from now.
+=======
+This is first feature of our application
+>>>>>>> parent of 0477511 (Added feature1)
